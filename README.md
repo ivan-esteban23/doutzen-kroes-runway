@@ -6,9 +6,12 @@ A focused collection exported from my Obsidian vault: runway photographs, show r
 - [Browse verified show locations](Doutzen%20Kroes%20-%20Runway%20Locations.md)
 - [Download the runway Canvas](Doutzen%20Kroes%20-%20Runway%20Explorer.canvas) — open it in Obsidian.
 
+- [More from the 2010s](Doutzen%20Kroes%20-%20Italian%20and%20French%20Runway%20References.md#more-from-the-2010s) — six additional photographs.
+- [More from the 2020s](Doutzen%20Kroes%20-%20Italian%20and%20French%20Runway%20References.md#more-from-the-2020s) — six additional photographs.
+
 ## Images and enlargements
 
-The collection includes nine existing local enlargements, eight labeled as AI assisted. Expand **AI-enlarged preview** in the gallery and click an enlargement to open it at full resolution. Each entry retains its original image link, credits, and source. AI reconstructed details may differ from the original photograph.
+The collection includes twelve additional original photographs from the 2010s and 2020s, plus nine existing local enlargements, eight labeled as AI assisted. Expand **AI-enlarged preview** in the gallery and click an enlargement to open it at full resolution. Each entry retains its original image link, credits, and source. AI reconstructed details may differ from the original photograph.
 
 Other images remain hosted by their original publishers and require an internet connection. Photographs remain the property of their respective rights holders; this repository does not grant a license to those images.
 
@@ -16,7 +19,7 @@ Other images remain hosted by their original publishers and require an internet 
 
 Clone or download this repository, then choose **Open folder as vault** in Obsidian. Preserve the directory structure so the gallery, local images, and Canvas continue to work. Standard Markdown links also support browsing directly on GitHub.
 
-The export includes 50 research notes, one Canvas, and nine local images. Vault settings, plugins, unrelated notes, and the original vault's Git history are excluded.
+The export includes 50 research notes, one Canvas, and 21 local images. Vault settings, plugins, unrelated notes, and the original vault's Git history are excluded.
 
 ## Fashion houses
 

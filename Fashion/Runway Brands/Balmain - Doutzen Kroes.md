@@ -23,3 +23,7 @@ tags:
 - [Balmain – Spring/Summer 2017 – look 12](../../Doutzen%20Kroes%20-%20Italian%20and%20French%20Runway%20References.md#balmain--springsummer-2017--look-12)
 
 Show identifications, outfit descriptions and photo credits appear in the linked gallery entries.
+
+## Additional photographs
+
+- [Balmain – Spring/Summer 2017 – look 70](../../Doutzen%20Kroes%20-%20Italian%20and%20French%20Runway%20References.md#balmain--springsummer-2017--look-70)

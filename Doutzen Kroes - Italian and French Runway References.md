@@ -9,9 +9,11 @@ tags:
 
 # Doutzen Kroes – international runway references
 
-A visual reference collection of Doutzen Kroes on the runway, grouped by the fashion house’s origin. Images are hosted by Vogue France or Vogue; open the image link for a larger view. Some photographer credits and show identifications follow [Vogue France’s runway retrospective](https://www.vogue.fr/galerie/doutzen-kroes-cover-star-looks-defiles).
+A visual reference collection of Doutzen Kroes on the runway, grouped by the fashion house’s origin. Images are published by Vogue France, Vogue, or Harper’s Bazaar; open the image link for a larger view. The additional 2010s and 2020s photographs are also saved locally. Some photographer credits and show identifications follow [Vogue France’s runway retrospective](https://www.vogue.fr/galerie/doutzen-kroes-cover-star-looks-defiles).
 
-Images require an internet connection and remain the property of their respective rights holders.
+Externally hosted images require an internet connection. All photographs remain the property of their respective rights holders.
+
+**More photographs:** [2010s](Doutzen%20Kroes%20-%20Italian%20and%20French%20Runway%20References.md#more-from-the-2010s) · [2020s](Doutzen%20Kroes%20-%20Italian%20and%20French%20Runway%20References.md#more-from-the-2020s). Twelve locally saved photographs with original sources and credits.
 
 ## Browse by fashion house
 
@@ -1392,3 +1394,108 @@ The image below is an AI-assisted enlargement; reconstructed details may differ 
 *Original archive preview: 320 × 480 pixels.*
 
 *Photo: Marcio Madeira.* [Open original image](https://assets.vogue.com/photos/55c6515408298d8be21f8c82/master/w_1024%2Cc_limit/00140m.jpg) · [Source and show identification](https://www.vogue.com/fashion-shows/fall-2005-ready-to-wear/paco-rabanne/slideshow/collection#14)
+
+## More from the 2010s
+
+Additional runway and backstage photographs. Ready-to-wear dates identify collection seasons; backstage photographs are labeled separately. Sources checked 16 November 2026.
+
+### Balmain – Spring/Summer 2017 – look 70
+
+<a href="attachments/Doutzen%20Kroes%20-%202010s%20and%202020s/doutzen-kroes-balmain-ss2017-look-70.jpg"><img src="attachments/Doutzen%20Kroes%20-%202010s%20and%202020s/doutzen-kroes-balmain-ss2017-look-70.jpg" alt="Doutzen Kroes – Balmain – Spring/Summer 2017 – look 70" width="600"></a>
+
+**Outfit:** A shimmering silver gown with a sheer central panel is paired with a long sleeveless layer.
+
+*Photo: Monica Feudi / Indigital.tv.* [Open original image](https://assets.vogue.com/photos/6aea0874bc6689fc8d141233/master/w_1024,c_limit/00070-balmain-spring-2017-ready-to-wear-credit-indigital-model-doutzen-kroes.jpg) · [Source and identification](https://www.vogue.com/fashion-shows/spring-2017-ready-to-wear/balmain/slideshow/collection#70)
+
+### CR Runway × LuisaViaRoma – 2019
+
+<a href="attachments/Doutzen%20Kroes%20-%202010s%20and%202020s/doutzen-kroes-cr-runway-luisaviaroma-2019.jpg"><img src="attachments/Doutzen%20Kroes%20-%202010s%20and%202020s/doutzen-kroes-cr-runway-luisaviaroma-2019.jpg" alt="Doutzen Kroes – CR Runway × LuisaViaRoma – 2019" width="600"></a>
+
+**Outfit:** A floral embellished bridal look is finished with a veil and oversized jeweled crown.
+
+*Photo: Vittorio Zunino Celotto / Getty Images.* [Open original image](https://media.vogue.fr/photos/696a3b690f07cc3ed3b87a9e/master/w_1024,c_limit/1155772097) · [Source and identification](https://www.vogue.fr/galerie/doutzen-kroes-cover-star-looks-defiles)
+
+### Prada – Fall/Winter 2010–2011 – backstage photograph 49
+
+<a href="attachments/Doutzen%20Kroes%20-%202010s%20and%202020s/doutzen-kroes-prada-fw2010-backstage-49.jpg"><img src="attachments/Doutzen%20Kroes%20-%202010s%20and%202020s/doutzen-kroes-prada-fw2010-backstage-49.jpg" alt="Doutzen Kroes – Prada – Fall/Winter 2010–2011 – backstage photograph 49" width="600"></a>
+
+**Setting:** A backstage group portrait shows the black-and-cream patterned dress and sculpted updo.
+
+*Photo: Greg Kessler / FirstView.com.* [Open original image](https://assets.vogue.com/photos/55c651bc08298d8be22701d1/master/w_1024,c_limit/00520fullscreen.jpg) · [Source and identification](https://www.vogue.com/fashion-shows/fall-2010-ready-to-wear/prada/slideshow/backstage#49)
+
+### Prada – Fall/Winter 2010–2011 – backstage photograph 58
+
+<a href="attachments/Doutzen%20Kroes%20-%202010s%20and%202020s/doutzen-kroes-prada-fw2010-backstage-58.jpg"><img src="attachments/Doutzen%20Kroes%20-%202010s%20and%202020s/doutzen-kroes-prada-fw2010-backstage-58.jpg" alt="Doutzen Kroes – Prada – Fall/Winter 2010–2011 – backstage photograph 58" width="600"></a>
+
+**Setting:** A second group portrait gives another angle on the patterned dress and styling.
+
+*Photo: Greg Kessler / FirstView.com.* [Open original image](https://assets.vogue.com/photos/55c651bc08298d8be22701da/master/w_1024,c_limit/00620fullscreen.jpg) · [Source and identification](https://www.vogue.com/fashion-shows/fall-2010-ready-to-wear/prada/slideshow/backstage#58)
+
+### Victoria’s Secret – Fashion Show 2012
+
+<a href="attachments/Doutzen%20Kroes%20-%202010s%20and%202020s/doutzen-kroes-victorias-secret-2012.jpg"><img src="attachments/Doutzen%20Kroes%20-%202010s%20and%202020s/doutzen-kroes-victorias-secret-2012.jpg" alt="Doutzen Kroes – Victoria’s Secret – Fashion Show 2012" width="600"></a>
+
+**Outfit:** A jeweled stage look features a white feathered headpiece and long silver gloves.
+
+*Photo: Kevin Mazur / Getty Images.* [Open original image](https://media.vogue.fr/photos/696a3b6e395f17dccd9f68bf/master/w_1024,c_limit/155731090) · [Source and identification](https://www.vogue.fr/galerie/doutzen-kroes-cover-star-looks-defiles)
+
+### Victoria’s Secret – Fashion Show 2014
+
+<a href="attachments/Doutzen%20Kroes%20-%202010s%20and%202020s/doutzen-kroes-victorias-secret-2014.jpg"><img src="attachments/Doutzen%20Kroes%20-%202010s%20and%202020s/doutzen-kroes-victorias-secret-2014.jpg" alt="Doutzen Kroes – Victoria’s Secret – Fashion Show 2014" width="600"></a>
+
+**Outfit:** A pale embellished lingerie set is framed by large white feathered wings.
+
+*Photo: Getty Images.* [Open original image](https://assets.vogue.com/photos/5877b4d3f1829e0f2f80a39c/master/w_1024,c_limit/victorias-secret-fashion-show-runway-01.jpg) · [Source and identification](https://www.vogue.com/slideshow/victorias-secret-fashion-show-2014-runway)
+
+
+## More from the 2020s
+
+Additional runway photographs, including lingerie-show references. Harper’s Bazaar gallery photograph numbers identify positions in its article, not runway look numbers.
+
+### Boss – Fall/Winter 2020–2021 – look 11
+
+<a href="attachments/Doutzen%20Kroes%20-%202010s%20and%202020s/doutzen-kroes-boss-fw2020-look-11.jpg"><img src="attachments/Doutzen%20Kroes%20-%202010s%20and%202020s/doutzen-kroes-boss-fw2020-look-11.jpg" alt="Doutzen Kroes – Boss – Fall/Winter 2020–2021 – look 11" width="600"></a>
+
+**Outfit:** A rust-colored tailored jacket and pleated skirt are paired with brown boots and a tonal bag.
+
+*Photo: Isidore Montag / Gorunway.com.* [Open original image](https://assets.vogue.com/photos/5e5280982122e10008ce42a5/master/w_1024,c_limit/IS5_1325.jpg) · [Source and identification](https://www.vogue.com/fashion-shows/fall-2020-ready-to-wear/hugo-boss/slideshow/collection#11)
+
+### Etro – Fall/Winter 2020–2021 – look 10
+
+<a href="attachments/Doutzen%20Kroes%20-%202010s%20and%202020s/doutzen-kroes-etro-fw2020-look-10.jpg"><img src="attachments/Doutzen%20Kroes%20-%202010s%20and%202020s/doutzen-kroes-etro-fw2020-look-10.jpg" alt="Doutzen Kroes – Etro – Fall/Winter 2020–2021 – look 10" width="600"></a>
+
+**Outfit:** A fringed checked coat is cinched with a studded belt and worn with tall brown boots.
+
+*Photo: Isidore Montag / Gorunway.com.* [Open original image](https://assets.vogue.com/photos/5e4fddbefbc05c0009b66873/master/w_1024,c_limit/IS5_0138.jpg) · [Source and identification](https://www.vogue.com/fashion-shows/fall-2020-ready-to-wear/etro/slideshow/collection#10)
+
+### Etro – Fall/Winter 2020–2021 – look 51
+
+<a href="attachments/Doutzen%20Kroes%20-%202010s%20and%202020s/doutzen-kroes-etro-fw2020-look-51.jpg"><img src="attachments/Doutzen%20Kroes%20-%202010s%20and%202020s/doutzen-kroes-etro-fw2020-look-51.jpg" alt="Doutzen Kroes – Etro – Fall/Winter 2020–2021 – look 51" width="600"></a>
+
+**Outfit:** A glossy black belted coat has red patterned cuffs and a matching hem detail.
+
+*Photo: Isidore Montag / Gorunway.com.* [Open original image](https://assets.vogue.com/photos/5e4fe6242b38f90008f457f3/master/w_1024,c_limit/IS5_0782.jpg) · [Source and identification](https://www.vogue.com/fashion-shows/fall-2020-ready-to-wear/etro/slideshow/collection#51)
+
+### Victoria’s Secret – Fashion Show 2024 – gallery photograph 12
+
+<a href="attachments/Doutzen%20Kroes%20-%202010s%20and%202020s/doutzen-kroes-victorias-secret-2024-photo-12.jpg"><img src="attachments/Doutzen%20Kroes%20-%202010s%20and%202020s/doutzen-kroes-victorias-secret-2024-photo-12.jpg" alt="Doutzen Kroes – Victoria’s Secret – Fashion Show 2024 – gallery photograph 12" width="600"></a>
+
+**Outfit:** Pink lingerie and a crystal mesh skirt are styled with silver wing motifs.
+
+*Photo: Dimitrios Kambouris / Getty Images.* [Open original image](https://hips.hearstapps.com/hmg-prod/images/gettyimages-2178613403-670f03310f801.jpg?resize=1200:*) · [Source and identification](https://www.harpersbazaar.com/fashion/fashion-week/g62612163/victorias-secret-fashion-show-runway-photos-2024/#slide-12)
+
+### Victoria’s Secret – Fashion Show 2025 – gallery photograph 26
+
+<a href="attachments/Doutzen%20Kroes%20-%202010s%20and%202020s/doutzen-kroes-victorias-secret-2025-photo-26.jpg"><img src="attachments/Doutzen%20Kroes%20-%202010s%20and%202020s/doutzen-kroes-victorias-secret-2025-photo-26.jpg" alt="Doutzen Kroes – Victoria’s Secret – Fashion Show 2025 – gallery photograph 26" width="600"></a>
+
+**Outfit:** A crystal mesh mini dress is topped with sculptural gold wings.
+
+*Photo: Gilbert Flores / Getty Images.* [Open original image](https://hips.hearstapps.com/hmg-prod/images/doutzen-kroes-at-the-2025-victorias-secret-fashion-show-news-photo-1760581632.pjpeg?resize=1200:*) · [Source and identification](https://www.harpersbazaar.com/celebrity/latest/g69045958/victorias-secret-fashion-show-2025-runway-looks-photos/#slide-26)
+
+### Victoria’s Secret – Fashion Show 2025 – gallery photograph 51
+
+<a href="attachments/Doutzen%20Kroes%20-%202010s%20and%202020s/doutzen-kroes-victorias-secret-2025-photo-51.jpg"><img src="attachments/Doutzen%20Kroes%20-%202010s%20and%202020s/doutzen-kroes-victorias-secret-2025-photo-51.jpg" alt="Doutzen Kroes – Victoria’s Secret – Fashion Show 2025 – gallery photograph 51" width="600"></a>
+
+**Outfit:** A black lace look combines crystal belts with a sweeping feathered headpiece.
+
+*Photo: Getty Images (published by Harper’s Bazaar).* [Open original image](https://hips.hearstapps.com/hmg-prod/images/doutzen-kroes-walks-the-runway-for-victorias-secret-fashion-news-photo-1760582491.pjpeg?resize=1200:*) · [Source and identification](https://www.harpersbazaar.com/celebrity/latest/g69045958/victorias-secret-fashion-show-2025-runway-looks-photos/#slide-51)

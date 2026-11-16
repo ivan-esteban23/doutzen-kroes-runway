@@ -26,3 +26,8 @@ tags:
 - [Etro – Spring/Summer 2007 – look 39](../../Doutzen%20Kroes%20-%20Italian%20and%20French%20Runway%20References.md#etro--springsummer-2007--look-39)
 
 Show identifications, outfit descriptions and photo credits appear in the linked gallery entries.
+
+## Additional photographs
+
+- [Etro – Fall/Winter 2020–2021 – look 10](../../Doutzen%20Kroes%20-%20Italian%20and%20French%20Runway%20References.md#etro--fallwinter-20202021--look-10)
+- [Etro – Fall/Winter 2020–2021 – look 51](../../Doutzen%20Kroes%20-%20Italian%20and%20French%20Runway%20References.md#etro--fallwinter-20202021--look-51)

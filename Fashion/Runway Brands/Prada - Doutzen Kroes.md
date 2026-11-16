@@ -18,3 +18,8 @@ tags:
 - [Prada – Fall/Winter 2010–2011](../../Doutzen%20Kroes%20-%20Italian%20and%20French%20Runway%20References.md#prada--fallwinter-20102011)
 
 Show identifications, outfit descriptions and photo credits appear in the linked gallery entries.
+
+## Additional photographs
+
+- [Prada – Fall/Winter 2010–2011 – backstage photograph 49](../../Doutzen%20Kroes%20-%20Italian%20and%20French%20Runway%20References.md#prada--fallwinter-20102011--backstage-photograph-49)
+- [Prada – Fall/Winter 2010–2011 – backstage photograph 58](../../Doutzen%20Kroes%20-%20Italian%20and%20French%20Runway%20References.md#prada--fallwinter-20102011--backstage-photograph-58)
